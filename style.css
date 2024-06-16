@@ -1,0 +1,15 @@
+:root {
+
+    /* colors */
+    --blue-1: #114B5F;
+    --blue-2: #028090;
+    --background-color: #E4FDE1;
+    --white: #FFFFFF;
+    --font-primary: "Urbanist", sans-serif;
+}
+
+
+body {
+    background-color: var(--blue-1);
+    font-family: var(--font-primary);
+}
