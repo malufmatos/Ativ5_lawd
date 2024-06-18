@@ -1,1 +1,0 @@
-# Ativ5_lawd
